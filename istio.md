@@ -32,7 +32,7 @@ By default the following resources are excluded from Kiali:
 - ReplicationController
 - StatefulSet
 
-In order to enable any of the excluded resources above, follow this [link](https://access.redhat.com/solutions/5359141)
+In order to enable any of the excluded resources above, follow this [instruction](https://access.redhat.com/solutions/5359141)
 
 ## Appy necessary labels to pods
 For each pods some labels need to be configured in order for Istio to work correctly.
