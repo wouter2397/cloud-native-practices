@@ -1,4 +1,4 @@
-# Istio Service Mesh practices
+# Red Hat Service Mesh (Istio) practices
 
 ## Propagate trace headers
 Although Istio proxies are able to automatically send spans, they need some hints to tie together the entire trace. Applications need to propagate the appropriate HTTP headers so that when the proxies send span information, the spans can be correlated correctly into a single trace.
