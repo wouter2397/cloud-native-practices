@@ -1,4 +1,4 @@
 # cloud-native-practices
 
 ## Table of Contents
-[Istio](./istio.md)
+[Red Hat Service Mesh (Istio)](./redhat-service-mesh.md)
